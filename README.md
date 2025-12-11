@@ -1,18 +1,10 @@
-## Hi there 👋
-
-<!--
-**kh0922/kh0922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-# 👋 Hi there! I'm **Your Name** 🌱✨
-
-안녕하세요! 김경환입니다.
+# 👋 Hi there! I'm **KimGyeongHwan** 🌱✨
 
 ---
 
 ## 🍀 About Me
 
-* 👨‍💻 컴퓨터공학과 1학년 개발자 지망생
+* 👨‍💻 컴퓨터학부 1학년 개발자 지망생
 
 ---
 
@@ -28,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-PDF에 있던 통계 스타일 기반으로 꾸며줬다모! ✨
+![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_ID\&show_icons=true\&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kh0922&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ID\&layout=compact\&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kh0922&layout=compact&theme=transparent)
 
 ---
 
@@ -46,16 +38,4 @@ PDF에 있던 통계 스타일 기반으로 꾸며줬다모! ✨
 
 ## 🌈 Visitor Count
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/YOUR_ID\&title=Visitors)
-
----
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kh0922&title=Visitors)
